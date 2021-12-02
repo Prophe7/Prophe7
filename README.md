@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering/ web development 
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on building a portfolio 
-- 📫 How to reach me: Mezashiel#5441 on discord 
+- 📫 How to reach me: Sergey121@live.com on discord 
 
 <!---
 Prophe7/Prophe7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
